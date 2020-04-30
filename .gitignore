@@ -1,4 +1,6 @@
 *.png
 *.gz
 *.jpg
-
+*.npy
+*.docx
+*.txt
